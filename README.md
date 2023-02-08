@@ -1,10 +1,10 @@
 # Netcat-Scanner
 
-# Author: Edgar Medina. 
+### Author: Edgar Medina. 
 
 
 
-# A simple bash script to scan a target or a list of targets for open ports. The script can scan a single port or a range of ports. The script can output the results in CSV or JSON format and provides verbose output.
+## A simple bash script to scan a target or a list of targets for open ports. The script can scan a single port or a range of ports. The script can output the results in CSV or JSON format and provides verbose output.
 
 ## Usage
 
